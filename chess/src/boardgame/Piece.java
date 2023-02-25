@@ -12,7 +12,7 @@ public class Piece {
 	}
 
 
-	public Board getBoard() {
+	protected Board getBoard() {
 		return board;
 	}
 
